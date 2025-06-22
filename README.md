@@ -19,7 +19,7 @@ A powerful module for [ProcessWire CMS](https://processwire.com) that provides f
 
 1. Copy or clone the repository into the `site/modules/` directory of your ProcessWire project:
    ```bash
-   git clone https://github.com/your-username/processwire-nocodb.git
+   git clone https://github.com/adhiarta/processwire-nocodb.git
    ```
 2. In the ProcessWire admin panel:
    - Go to **Modules > Refresh**.
