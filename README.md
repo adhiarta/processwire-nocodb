@@ -19,7 +19,7 @@ A comprehensive ProcessWire module that provides complete CRUD (Create, Read, Up
 ## Requirements
 
 - ProcessWire 3.0.0 or higher
-- PHP 7.4 or higher
+- PHP 8.2 or higher
 - cURL extension enabled
 - Valid NocoDB instance with API access
 
